@@ -53,7 +53,7 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 - **Web Interface** : Built-in web UI for configuration and monitoring
   - APRS Monitor with live map and station list
   - Direwolf configuration editor
-  - Radio settings (frequency, power, filters)
+  - Radio settings (frequency, squelch, volume)
   - Wireless configuration
   - System information and diagnostics
 - **Networking** : WiFi, Ethernet, USB RNDIS, mDNS discovery
@@ -66,4 +66,4 @@ If you have any questions or need support, please contact [support@lightaprs.com
 
 ## Wiki
 
-- **[F.A.Q.]**
+- **[F.A.Q.](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/F.A.Q.)**
