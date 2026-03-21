@@ -29,14 +29,12 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 - **Platform** : [Luckfox Core1106](https://www.luckfox.com/Core1106) (Rockchip RV1106G3)
 - **OS** : Linux (Ubuntu 22.04)
 - **CPU** : ARM Cortex-A7 @ 1.2 GHz
-- **NPU** : 0.5 TOPS (supports int4, int8, int16)
+- **NPU** : 1.0 TOPS (supports int4, int8, int16)
 - **Ram** : 256 MB DDR3L
 - **Storage** : 8 GB eMMC
 - **WiFi** : 2.4 GHz WiFi 6 (AIC8800DC)
 - **Bluetooth** : 5.2 / BLE
-- **Operating Voltage** : 3.3 Volt
 - **Input Voltage** : 5 Volt via USB Type-C 2.0
-- **Power Consumption (Idle)** : TBD
 - **VHF Radio Module** : SA818V
 - **VHF Operating Frequency** : 144 MHz (configurable)
 - **VHF Max Power** : 30 dBm / 1W
