@@ -65,11 +65,13 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 
 ## Guides
 
+- **[Direwolf Configuration Guide](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/Direwolf-Configuration-Guide)** — Set up Digipeater, iGate, or both with sensor data
 - **[Firmware Image Update Guide](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/Firmware-Image-Update-Guide)** — Re-flash the factory image if you need to restore the operating system
 
 ## Reference
 
 - **[F.A.Q.](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/F.A.Q.)** — Frequently asked questions about radio, antenna, licensing, hardware, and software
+- **[Firmware Repository](https://github.com/lightaprs/LightAPRSGateway-1.0-firmware)** — System internals, configuration files, and web interface source code (for advanced users)
 
 ## Support
 
