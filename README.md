@@ -22,6 +22,8 @@ LightAPRS Gateway is plug and play. Everything is pre-installed and pre-configur
 
 That's it — your APRS digipeater is on the air! For detailed instructions, see the [Getting Started](#getting-started) section below.
 
+<img src="images/lightaprs_gateway_sma.jpeg" width="600">
+
 ## Key Benefits
 
 - SA818V VHF Transceiver (1W) with SMA Antenna Connector
@@ -57,7 +59,11 @@ That's it — your APRS digipeater is on the air! For detailed instructions, see
 - **Ethernet** : 10/100M
 - **Enclosure** : ABS Enclosure (88.5 x 63 x 27.5 mm)
 
-<img src="images/lightaprs_gateway_sma.jpeg" width="600">
+### Board Pinout & Extended Pin Header
+
+<img src="images/lightaprs_gateway_pinout.png" width="600">
+
+The board exposes an extended pin header for custom projects and expansion. See the pinout diagram above for available GPIO, SPI, I2C, UART, and other interfaces.
 
 ## Software Features
 
