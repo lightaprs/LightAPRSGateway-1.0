@@ -30,6 +30,7 @@ That's it — your APRS digipeater is on the air! For detailed instructions, see
 - Built-in APRS Digipeater & iGate via [Direwolf](https://github.com/wb2osz/direwolf)
 - WiFi 6 (2.4 GHz) + Ethernet for Network Connectivity + USB Type-C for Direct Connection
 - SHTC3 Environmental Sensor (Temperature & Humidity)
+- Auto-Recovery After Power Outage — Ideal for Unattended Remote Installations (rooftop, hilltop, etc.)
 - ABS Enclosure with Laser-Cut Openings for SMA, USB and Ethernet Connectors
 
 <img src="images/lightaprs_gateway_enclosure_open.jpeg" width="600">
@@ -48,7 +49,8 @@ That's it — your APRS digipeater is on the air! For detailed instructions, see
 - **Bluetooth** : 5.2 / BLE
 - **Input Voltage** : 5 Volt via USB Type-C 2.0
 - **VHF Radio Module** : SA818V
-- **VHF Operating Frequency** : 144 MHz (configurable)
+- **VHF Operating Frequency** : 144-146 MHz (configurable)
+- **Low Pass Filter** : Available (7 elements)
 - **VHF Max Power** : 30 dBm / 1W
 - **Environmental Sensor** : SHTC3 (Temperature & Humidity)
 - **Antenna Connector** : SMA Female (VHF), IPEX 1.0 (WiFi)
