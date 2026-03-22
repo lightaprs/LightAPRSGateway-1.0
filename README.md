@@ -47,7 +47,7 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 
 ## Software Features
 
-- **APRS** : Digipeater & iGate operation via Direwolf 1.8
+- **APRS** : Digipeater & iGate operation via Direwolf 1.9 (dev)
 - **Web Interface** : Built-in web UI for configuration and monitoring
   - APRS Monitor with live map and station list
   - Direwolf configuration editor
@@ -58,10 +58,20 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 
 <img src="images/lightaprs_gateway_aprs_monitor.png" width="600">
 
+## Getting Started
+
+1. **[How to Connect for the First Time](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/How-to-Connect-for-the-First-Time)** — Power up your board and access the web interface or SSH
+2. **[How to Change Passwords](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/How-to-Change-Passwords)** — Change default SSH and web interface passwords
+
+## Guides
+
+- **[Firmware Image Update Guide](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/Firmware-Image-Update-Guide)** — Re-flash the factory image if you need to restore the operating system
+
+## Reference
+
+- **[F.A.Q.](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/F.A.Q.)** — Frequently asked questions about radio, antenna, licensing, hardware, and software
+
 ## Support
 
 If you have any questions or need support, please contact [support@lightaprs.com](mailto:support@lightaprs.com)
 
-## Wiki
-
-- **[F.A.Q.](https://github.com/lightaprs/LightAPRSGateway-1.0/wiki/F.A.Q.)**
