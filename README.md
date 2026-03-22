@@ -10,6 +10,18 @@ LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
 
 <img src="images/lightaprs_gateway_radio.jpg" width="600">
 
+## Quick Start — 3 Steps
+
+LightAPRS Gateway is plug and play. Everything is pre-installed and pre-configured out of the box.
+
+**1. Connect an antenna** to the SMA connector
+
+**2. Power it up** via USB-C (any 5V USB adapter or computer)
+
+**3. Set your callsign and location** — open `http://lightaprs-gateway.local` in your browser, go to **Direwolf Config**, and update `MYCALL` with your callsign and `PBEACON` with your coordinates. Click Save.
+
+That's it — your APRS digipeater is on the air! For detailed instructions, see the [Getting Started](#getting-started) section below.
+
 ## Key Benefits
 
 - SA818V VHF Transceiver (1W) with SMA Antenna Connector
