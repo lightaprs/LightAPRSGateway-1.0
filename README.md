@@ -4,7 +4,7 @@ LightAPRS Gateway is a Linux-based APRS gateway development board featuring an S
 
 <img src="images/lightaprs_gateway_top.jpeg" width="600">
 
-LightAPRS Gateway will be available on https://shop.qrp-labs.com for order soon.
+LightAPRS Gateway is available on https://shop.qrp-labs.com/aprs/LightAPRSGateway1 for order.
 
 **Important:** LightAPRS Gateway 1.0 operates on the amateur 2-meter (VHF) radio band with a 30 dBm (1W) output power, which typically requires an amateur radio license to operate in many countries. Therefore, if you are not a licensed HAM operator, please ensure to check local regulations and laws before purchasing the module.
 
@@ -26,13 +26,13 @@ That's it — your APRS digipeater is on the air! For detailed instructions, see
 
 ## Key Benefits
 
-- SA818V VHF Transceiver (1W) with SMA Antenna Connector
+- SA818V VHF Transceiver (1W) with SMA Antenna Connector (Antenna not included)
 - Pre-installed Linux OS (Ubuntu 22.04)
 - Web-Based Configuration Interface and Local RF APRS Monitoring Map
 - Built-in APRS Digipeater & iGate via [Direwolf](https://github.com/wb2osz/direwolf)
-- WiFi 6 (2.4 GHz) + Ethernet for Network Connectivity + USB Type-C for Direct Connection
+- WiFi 6 (2.4 GHz) + Ethernet for Network Connectivity + USB Type-C for Direct Connection (WiFi antenna included)
 - SHTC3 Environmental Sensor (Temperature & Humidity)
-- Auto-Recovery After Power Outage — Ideal for Unattended Remote Installations (rooftop, hilltop, etc.)
+- Auto-Reboot After Power Outage — Ideal for Unattended Remote Installations (rooftop, hilltop, etc.)
 - ABS Enclosure with Laser-Cut Openings for SMA, USB and Ethernet Connectors
 
 <img src="images/lightaprs_gateway_enclosure_open.jpeg" width="600">
